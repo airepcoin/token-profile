@@ -1,0 +1,23 @@
+{
+  "symbol": "AIREP",
+  "address": "0x05A9956EeB6a29cD5310cEB3eb299CC515759626",
+  "overview":{
+        "en": "AIREP coin",
+        "zh": ""
+  },
+  "email": "Email",
+  "website": "https://airep.io/",
+  "whitepaper": "https://airep.io/whitepaper_cn.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-04-26",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "telegram": "https://t.me/joinchat/airepcoin",
+    "github": "https://github.com/airepcoin"
+    
+  }
+}
